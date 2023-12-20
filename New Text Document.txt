@@ -1,0 +1,1 @@
+copy /b C:\Users\11510\Downloads\parts\part* "C:\Users\11510\Downloads\reconstructed_file.exe"
